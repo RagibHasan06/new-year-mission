@@ -53,7 +53,7 @@
     font-size: 88px;
     font-family: Inter;
     font-weight: 700;
-    
+
 }
 
 .banner2 p {
@@ -61,7 +61,7 @@
     font-size: 24px;
     font-family: Inter;
     font-weight: 500;
-    
+
 }
 
 .banner2 h4 {
@@ -72,4 +72,43 @@
     font-weight: 700;
     padding-top: 0px;
     margin-top: 0px;
+}
+
+/* Third Section  */
+.container3 {
+    position: absolute;
+    text-align: left;
+    top: 110px;
+    left: 110px;
+    width: 50%;
+}
+
+.container3 h2 {
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+    font-style: normal;
+    font-weight: 900;
+    margin: 0px;
+    padding: 0px;
+}
+
+.container3 p {
+    color: rgba(255, 255, 255, 0.80);
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.container3 button {
+    color: #FFF;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    border: none;
+    background: none;
 }
