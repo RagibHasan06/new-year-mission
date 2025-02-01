@@ -1,0 +1,75 @@
+/* Common Shared Style */
+.main section {
+    max-width: 1120px;
+    margin: 50px auto;
+}
+
+/* First section */
+.banner1 {
+    height: auto;
+    position: relative;
+}
+
+.banner1 img {
+    display: block;
+    width: 100%;
+}
+
+.container1 {
+    position: absolute;
+    text-align: center;
+    top: 110px;
+    left: 240px;
+    width: 50%;
+}
+
+.container1 h5 {
+    color: white;
+    font-size: 32px;
+    font-family: Merriweather;
+    font-weight: 400;
+    margin-bottom: 10px;
+
+}
+
+.container1 h2 {
+    color: white;
+    font-size: 72px;
+    font-family: Merriweather;
+    font-weight: 900;
+    line-height: 70px;
+    margin-top: 10px;
+    padding-top: 10px;
+
+}
+
+/* Second section */
+.banner2 {
+    text-align: center;
+}
+
+.banner2 h2 {
+    color: #FF0000;
+    font-size: 88px;
+    font-family: Inter;
+    font-weight: 700;
+    
+}
+
+.banner2 p {
+    color: #FF0000;
+    font-size: 24px;
+    font-family: Inter;
+    font-weight: 500;
+    
+}
+
+.banner2 h4 {
+    color: #070211;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    padding-top: 0px;
+    margin-top: 0px;
+}
